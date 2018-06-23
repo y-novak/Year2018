@@ -1,3 +1,5 @@
+# https://repl.it/@YaroslavNovak/CurrentYearWeekdaysStartingFromToday
+
 import datetime
 
 today = datetime.date.today()
